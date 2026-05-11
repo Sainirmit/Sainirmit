@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Sai Nirmit 👨‍💻  <br>🔭 Currently an AI + Python Developer Intern at NET Solutions, Chandigarh, India.  <br>🎓 Final-year CS undergrad at Chitkara University, Punjab <br>🌐  Building cool tech @ Wynngrid & Elevvia  <br>🤖 AI AI AI AI AI |📱 iOS + Web Dev | 🧠 Prompt Engineering | 📊 Data Projects  <br>🌍 Global learner – Metropolia, Finland (ICT Summer School '23 & '24)<br><br>Passionate about merging tech with real-world impact, and always learning 🚀
+Hi there! I'm Sai Nirmit 👨‍💻  <br>🔭 Ex - AI + Python Developer Intern at NET Solutions, Chandigarh, India.  <br>🎓 CS Grad 2021-25 <br>🌐  Built cool tech @ Wynngrid & Elevvia  <br>🤖 AI AI AI AI AI |📱 iOS + Web Dev | 🧠 Prompt Engineering | 📊 Data Projects  <br> ✈️Working with cool designers globally to take their vision to Production <br> 🌍 Global learner – Metropolia, Finland (ICT Summer School '23 & '24)<br><br>Passionate about merging tech with real-world impact, and always learning 🚀
 
 
 ## 🌐 Socials:
